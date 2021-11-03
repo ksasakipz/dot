@@ -102,3 +102,8 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias python="python3"
+alias pip="pip3"
+alias sshpi="ssh pi@192.168.1.136"
+alias serve="python -m http.server"
+alias pk="python kevins_controller1.py"
